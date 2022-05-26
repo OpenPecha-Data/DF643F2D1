@@ -1,0 +1,22 @@
+id: DF643F2D1
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-18T05:31:49+00:00'
+last_modified: '2022-05-26T08:20:42.503473+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    '7298':
+      image_group_id: I1PD95859
+      title: དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།
+      total_pages: 1856
+      order: 14
+      base_file: 7298.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
